@@ -1,0 +1,6 @@
+Hi, i am Dev
+Generate a ready-to-paste JSON webhook with the exact Site24x7 variable names (I can produce that now).
+
+Provide recommended mapping table (Site24x7 variable → ServiceNow field) you can copy into your integration UI.
+
+Draft ServiceNow roles & ACL checklist for the integration user to give to your SNOW admin.
